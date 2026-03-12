@@ -1,0 +1,24 @@
+{
+  "input_file": "C:\\Users\\29668\\Documents\\VmMix4\\perthlitePP2L\\pliteWAVpipeline\\tmp\\perthlite\\testWav\\Give Me Something (for Arknights Endfield) - OneRepublic.flac",
+  "segments_tested": 3,
+  "avg_snr_db": 72.44371732076009,
+  "avg_mse": 9.320452354355524e-09,
+  "avg_max_diff": 0.02947986125946045,
+  "per_segment": [
+    {
+      "snr": 67.62318134307861,
+      "mse": 2.2317095726975822e-08,
+      "max_diff": 0.04852020740509033
+    },
+    {
+      "snr": 77.99983501434326,
+      "mse": 8.273700058403222e-10,
+      "max_diff": 0.012769103050231934
+    },
+    {
+      "snr": 71.7081356048584,
+      "mse": 4.816891330250428e-09,
+      "max_diff": 0.027150273323059082
+    }
+  ]
+}
