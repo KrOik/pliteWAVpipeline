@@ -1,7 +1,7 @@
 # pliteWAVpipeline
 
 一个全面的音频数据处理管道，专为机器学习应用设计。支持音频缓存、智能切片（基于 VAD - Voice Activity Detection）、内存映射文件打包和高效数据加载。归一化处理完成后，支持切分到 segment，mmap 到内存，用于音频处理领域模型训练。
-hyper Boost your dataLoad speed on the audio process/training field, 55.54x faster that origin WAV when loading.
+Boost your data loading speed in the audio processing/training field — 55.54x faster than origin WAV when loading.
 ![Speedup Chart](results/benchmarkSpeedup.png)
 
 ## What it can do 核心特性
